@@ -1,0 +1,5 @@
+/Users/fabrianivan/Lumora/.utmp/RelWithDebInfo/4ma3s2rm/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/fabrianivan/Lumora/.utmp/RelWithDebInfo/4ma3s2rm/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/fabrianivan/Lumora/.utmp/RelWithDebInfo/4ma3s2rm/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/fabrianivan/Lumora/.utmp/RelWithDebInfo/4ma3s2rm/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/fabrianivan/Lumora/.utmp/RelWithDebInfo/4ma3s2rm/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
